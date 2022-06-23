@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PI1_FloorsExplication</Name>
+		<Assembly>PI1_FloorsExplication.dll</Assembly>
+		<AddInId>EB6EF5C5-C3FA-4B9E-84CA-FD2BDD3E55C5</AddInId>
+		<FullClassName>PI1_FloorsExplication.Main</FullClassName>
+		<VendorId>Daniil Tulkin</VendorId>
+		<VendorDescription>Daniil Tulkin</VendorDescription>
+	</AddIn>
+</RevitAddIns>
